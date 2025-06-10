@@ -12,7 +12,7 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 
 # Granular Requirements
 * 1.Total sales by fat content:
-- Objective: Analyze the impact of fat content on total sales.
+   * -Objective: Analyze the impact of fat content on total sales.
 -Additional KPI Metrics: Access how other KPIs (Average sales, Number of items, Average rating) vary with fat content
 -Chart Used: Donut Chart
 * 2.Total sales by item type:
